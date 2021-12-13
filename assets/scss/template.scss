@@ -110,9 +110,20 @@ ul.network-icon .big-icon {
 
 // Smaller Name and Role text on About page than in homepage `about.avatar` widget
 .wg-about .portrait-title h2 {
-  font-size: 1rem
+  font-size: 1rem;
 }
 
 .wg-about .portrait-title h3 {
-  font-size: .8rem
+  font-size: .8rem;
+}
+
+.card-simple {
+  text-align: center;
+}
+
+.card-simple > a:nth-child(2) {
+  display: block;
+  width: 50%;
+  min-width: 14em;
+  margin: 0 auto;
 }
