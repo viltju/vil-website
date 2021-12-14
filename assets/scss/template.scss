@@ -117,6 +117,8 @@ ul.network-icon .big-icon {
   font-size: .8rem;
 }
 
+// Adjust post card styles
+
 .card-simple {
   text-align: center;
 }
@@ -127,3 +129,13 @@ ul.network-icon .big-icon {
   min-width: 14em;
   margin: 0 auto;
 }
+
+// Hide powered-by info
+
+.site-footer .powered-by:nth-child(2) {
+  display: none;
+}
+
+// .wg-about-avatar .home-section-bg {
+
+// }
