@@ -1,19 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Exploring the Effects of Blur and Deblurring to Visual Object Tracking
+title: Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition
 subtitle: ''
 summary: ''
 authors:
-- Qing Guo
+- Cunling Bian
 - Wei Feng
-- Ruijun Gao
-- Yang Liu
+- Liang Wan
 - Song Wang
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-12-19T17:21:24+08:00
+lastmod: 2021-12-19T23:28:35+08:00
 featured: false
 draft: false
 
@@ -31,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-19T09:21:23.359182Z'
+publishDate: '2021-12-19T15:28:35.053838Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Trans. Image Process.*'
-doi: 10.1109/TIP.2020.3045630
+doi: 10.1109/TIP.2021.3056895
 ---
