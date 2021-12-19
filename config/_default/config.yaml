@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Vision Intelligence Lab # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://vil-website.netlify.app/' # Website URL
 copyright: '© 2021 Vision Intelligence Lab, Computing and Intelligence College, Tianjin University, China' # Footer text, e.g. '© {year} Me'
 
 ############################

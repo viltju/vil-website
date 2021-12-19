@@ -65,7 +65,7 @@ copyright_license:
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: square
 comments:
   provider: ''
   commentable:

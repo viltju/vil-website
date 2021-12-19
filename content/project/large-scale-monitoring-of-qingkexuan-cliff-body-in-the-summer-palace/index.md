@@ -4,9 +4,9 @@ subtitle: ""
 date: 2021-12-19T07:47:50.115Z
 summary: ""
 draft: false
-featured: false
+featured: true
 image:
-  filename: wechatimg241.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
