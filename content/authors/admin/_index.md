@@ -67,8 +67,4 @@ bio: Focusing on computer vision and solving real-world problems.
 #email: ""
 ---
 
-VIL (Vision Intelligence Lab) in Computing and Intelligence College, Tianjin University, China is focusing on computer vision and solving real-world problems.
-
-<!-- Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+Our Visual Intelligence Lab aims to develop high-quality technique for computer vision community. Currently, we main focus on four research areas including active visual perception, medical image processing, video understanding and sign language understanding. Our team owns 6 senior researchers as well as 80+ students. In the past years, we have a number of high-quality papers published on top conferences/journals and projects upon various applications.
