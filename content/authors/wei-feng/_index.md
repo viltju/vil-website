@@ -1,7 +1,7 @@
 ---
 title: Wei Feng
 role: Professor
-avatar_filename: avatar
+avatar_filename: fengwei.jpg
 bio: ""
 interests: []
 social: []
