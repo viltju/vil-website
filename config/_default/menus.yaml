@@ -14,7 +14,7 @@ main:
     url: project/
     weight: 30
   - name: People
-    url: authors/
+    url: /#people
     weight: 40
   - name: About
     url: about/
